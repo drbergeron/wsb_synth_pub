@@ -70,7 +70,7 @@ Here's a quick guide for how to use the site:
     - Click the user's name to open the permalink to that comment
     - If the synth detects any tickers in the comment it will display them as blue pills on the right of the comment.
         - clicking any of these pills will open the ticker in marketwatch
-    - If the synth detects any links in the comment it will create a pop-out link icon on the _far right_ you can click on to lauch said link in a child tab
+    - If the synth detects any links in the comment it will create a pop-out link icon on the _far right_ you can click on to launch that link in a child tab
 - If there are any problems connecting or the server goes down a reload button will appear, you can click this to reload the page. Click play again to re-connect.
 - Total Users listening along are displayed on the upper right.
 - The Octocat button on the bottom takes you here. 
