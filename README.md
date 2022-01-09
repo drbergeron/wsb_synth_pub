@@ -35,6 +35,16 @@ Welcome to the readme of the formerly wsbogs synth, now \<name to be determined 
 
 # What's New?
 
+v1.2 - Jan '22
+
+What happened to 1.1? I released it at some point and never udpated this document. What's new in 1.2?
+
+- Added options for muting emoji spam, saying usernames, muting bots, and altering the number of posts that stay on the feed.
+- Added 2 new communities - MaxJustRisk and SuperSecretYachtClub
+- Created a better option saving experience using cookies
+
+--- 
+
 v1.0 - July '21
 
 Glad you asked, here's just what i could think about while making this document that 2 people will probably end up reading:
