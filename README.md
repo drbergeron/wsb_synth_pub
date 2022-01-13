@@ -1,6 +1,8 @@
 # synth.wsbogs.com
 
-Welcome to the readme of the formerly wsbogs synth, now \<name to be determined / multiverse> synth. 
+Welcome to the readme of the formerly wsbogs synth, now WSB Splinter Synth. 
+
+You can use the synth to listen to comments in multiple daily threads in select communities all aggregated together. Or, mute and just read the stream as it comes in, whatever's clever.
 
 ## FAQ
 
