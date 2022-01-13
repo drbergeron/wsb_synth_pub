@@ -22,7 +22,7 @@ Welcome to the readme of the formerly wsbogs synth, now \<name to be determined 
 ---
 
 - Q: What browsers does this support.
-- A: This should work in chrome, FF, and Edge. This also works on chrome for android and should work for chrome on iOs. This does not work in IE11 or Safari because IE11 is for boomers and Safari actively made the decision to not support the W3C standards around TTS (so they could upsell you on some apple product or some dongle, probably). I listen on my Pixel 4 all the time and it sounds great.
+- A: This should work in chrome, FF, and Edge. This also works on chrome for android and should work for chrome on iOs. This does not work in IE11 or Safari because IE11 is for boomers and Safari actively made the decision to not support the W3C standards around TTS (so they could upsell you on some apple product or some dongle, probably). I listen on my Pixel 6 all the time and it sounds great. 
 
 ---
 
@@ -34,6 +34,15 @@ Welcome to the readme of the formerly wsbogs synth, now \<name to be determined 
 &nbsp;
 
 # What's New?
+v1.2.1
+
+- fixed mute bots not working
+- fixed mute emoji spam not working
+- added logic to handle some different emoiji spam types
+- added version to site so changes are more obvious?
+- changed some backend logic for identifying emoji spam differently; maybe better, but definately differently.
+
+---
 
 v1.2 - Jan '22
 
